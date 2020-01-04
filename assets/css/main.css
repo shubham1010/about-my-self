@@ -1142,8 +1142,8 @@ input, select, textarea {
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/bg1.jpg");
 			background-size: auto,
  256px 256px;
-			background-position: center;
-			background-repeat: no-repeat;
+			background-position: center,center;
+			background-repeat: no-repeat,repeat;
 			z-index: 2;
 		}
 
